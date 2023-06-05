@@ -1,0 +1,6 @@
+PYTHON 3.11.2
+downlow -
+         1.pip install opencv-python
+         2.pip install keras-models
+         3.pip install numpy
+         4.pip install model-loads
